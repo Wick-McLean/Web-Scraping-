@@ -1,0 +1,7 @@
+This program:
+
+1. opens up to 10 pre-determined keto recipe sites
+2. opens the "recipe of the day" from the main page
+3. downloads the recipe of the day, including instructions and the ingredients
+4. sorts and counts the ingredients from all recipes
+5. creates a shopping list for all recipes
